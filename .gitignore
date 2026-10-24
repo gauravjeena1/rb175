@@ -1,0 +1,13 @@
+# Ignore SimpleCov coverage reports
+coverage/
+
+# Ignore Mac system files
+.DS_Store
+
+rack_notes.md
+rolls_sides.rb
+my_framework
+practice_rack
+counter.rb
+dynamic_dir_index
+search_form
